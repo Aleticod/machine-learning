@@ -1,0 +1,13 @@
+name: machine-learning
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - pandas
+  - matplotlib
+  - seaborn
+  - plotly
+  - scikit-learn
+  - scikit-image
+prefix: /home/harvey/anaconda3/envs/machine-learning
