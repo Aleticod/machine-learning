@@ -1,7 +1,5 @@
 # Examples folders
 MO/
-*.rar
-
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
