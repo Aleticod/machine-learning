@@ -1,5 +1,7 @@
 # Examples folders
 MO/
+B06_cortes.csv
+B06_papas.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
