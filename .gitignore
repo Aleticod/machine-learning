@@ -3,6 +3,7 @@ MO/
 B06_cortes.csv
 B06_papas.csv
 fotos/
+*.joblib
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
