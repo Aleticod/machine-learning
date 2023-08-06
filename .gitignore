@@ -4,6 +4,10 @@ B06_cortes.csv
 B06_papas.csv
 fotos/
 *.joblib
+# Images
+*.jpg
+*.png
+*.jpeg
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
