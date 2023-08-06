@@ -12,4 +12,8 @@ dependencies:
   - ipykernel
   - graphviz
   - python-graphviz
+  - keras
+  - ca-certificates
+  - certifi
+  - openssl
 prefix: C:\Users\HARVEY\anaconda3\envs\machine-learning
